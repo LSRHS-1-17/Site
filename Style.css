@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+
+}
+a{
+  color: white;
+  text-align: left;
+}
+li{
+  text-align: left;
+  font-family: 'Neuton', serif;
+}
+
+}
+p1{
+  text-align: left;
+  font-family: 'Neuton', serif;
+
+}
+p2{
+  text-align: left;
+  font-family: 'Neuton', serif;
+
+}
+p3{
+  text-align: left;
+  font-family: 'Neuton', serif;
+
+}
+img{
+  align-content: space-around;
+}
