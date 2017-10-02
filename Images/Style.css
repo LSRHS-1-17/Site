@@ -1,0 +1,10 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+td{
+  width:400px;
+  height:200px;
+  border:1px solid black;
+}
