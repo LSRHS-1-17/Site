@@ -8,3 +8,7 @@ td{
   height:200px;
   border:1px solid black;
 }
+a {
+  color: white;
+  text-align: left;
+}
