@@ -16,3 +16,17 @@ table, tr, td{
   padding: 30px;
   border: 20px;
 }
+a:visited{
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+  color: red
+}
+a:hover{
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+  color: red
+}a:active{
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+  color: red
+}
