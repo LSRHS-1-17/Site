@@ -25,7 +25,8 @@ a:hover{
   font-family: 'Slabo 27px', serif;
   font-size: 25px;
   color: red
-}a:active{
+}
+a:active{
   font-family: 'Slabo 27px', serif;
   font-size: 25px;
   color: red
