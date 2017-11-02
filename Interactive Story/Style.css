@@ -10,7 +10,7 @@ p{
 a:link{
   font-family: 'Slabo 27px', serif;
   font-size: 25px;
-  color: red
+  color: black
 }
 table, tr, td{
   padding: 30px;
@@ -19,15 +19,15 @@ table, tr, td{
 a:visited{
   font-family: 'Slabo 27px', serif;
   font-size: 25px;
-  color: red
+  color: black
 }
 a:hover{
   font-family: 'Slabo 27px', serif;
   font-size: 25px;
-  color: red
+  color: black
 }
 a:active{
   font-family: 'Slabo 27px', serif;
   font-size: 25px;
-  color: red
+  color: black
 }
